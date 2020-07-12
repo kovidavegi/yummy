@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <link rel="stylesheet" href="style.css"></link>
+  <title>Cart</title>
+ </head>
+ <body>
+ <div id="navigation-bar">
+	<p id="page-title">truYum</p>
+	<a href="menu-item-list-customer.html">Menu</a>
+	<a href="cart.html">Cart</a>
+  </div>
+<div id="menu-items">
+ <table>
+ <tr>
+	<td><h3>Cart</h3></td>
+ </tr>
+ <tr>
+	<td></td>
+ </tr>
+ <tr>
+	<td><table>
+ <tr>
+	<td><strong><pre>Name                               </pre></strong></td>
+	<td><strong><pre>Free Delivery      </pre></strong></td>
+	<td><strong><pre>        Price        </pre></strong></td>
+	
+ </tr>
+ <tr>
+	<td>Sandwich</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rs.99.00</td>
+	<td><a href="cart-notification.html">Delete</a></td>
+ </tr>
+ <tr>
+	<td>Burger</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rs.129.00</td>
+	<td><a href="cart-notification.html">Delete</a></td>
+ </tr>
+ </table></td>
+ </tr>
+ </table>
+</div>
+<div id="copy-rights">
+	<h5>Copyright&copy;2019</h5>
+ </div>
+  
+ </body>
+</html>

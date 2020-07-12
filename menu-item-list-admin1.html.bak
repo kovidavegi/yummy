@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<link rel="stylesheet" href="style.css"></link>
+ <title>menu Admin</title>
+ </head>
+ <body>
+  <div id="navigation-bar">
+	<p id="page-title">truYum</p>
+	<a href="menu-item-list-customer.html">Menu</a>
+  </div>
+<div id="menu-items">
+<table>
+ <tr>
+	<td><h2>Menu Items</h2></td>
+ </tr>
+ <tr>
+	<td></td>
+ </tr>
+ <tr>
+	<td><table>
+ <tr>
+	<td><strong><pre>Name                               </pre></strong></td>
+	<td><strong><pre>Price      </pre></strong></td>
+	<td><strong><pre>Active        </pre></strong></td>
+	<td><strong><pre>Date of Launch       </pre></strong></td>
+	<td><strong><pre>Category</pre></strong></td>
+	<td><strong><pre>Free Delivery</pre></strong></td>
+	<td><strong><pre>Action</pre></strong></td>
+ </tr>
+ <tr>
+	<td>Sandwich</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rs.99.00</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15/03/2017</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Main Course</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="edit-menu-item.html">Edit</a></td>
+ </tr>
+ <tr>
+	<td>Burger</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rs.129.00</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;23/12/2017</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Main Course</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="edit-menu-item.html">Edit</a></td>
+ </tr>
+ <tr>
+	<td>Pizza</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rs.149.00</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;21/08/2017</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Main Course</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="edit-menu-item.html">Edit</a></td>
+ </tr>
+  <tr>
+	<td>French Fries</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rs.57.00</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;02/07/2017</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Starters</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="edit-menu-item.html">Edit</a></td>
+ </tr>
+  <tr>
+	<td>Chocolate Brownie</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rs.32.00</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;02/11/2022</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dessert</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes</td>
+	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="edit-menu-item.html">Edit</a></td>
+ </tr>
+ </table></td>
+ </tr>
+ </table>
+ 
+ </div>
+<div id="copy-rights">
+	<h5>Copyright&copy;2019</h5>
+ </div>
+ </body>
+</html>
+

@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <link rel="stylesheet" href="style.css"></link>
+  <title>Edit Menu Item</title>
+ </head>
+ <body>
+ <div id="navigation-bar">
+	<div id="page-title">truYum
+	<img id="image" src="C:\Users\USER\Desktop\download.png"></img>
+	<a id="link1" href="menu-item-list-admin.html">Menu</a>
+	</div>
+<div id="menu-items">
+  <h3>Edit Menu Item</h3>
+   Name<br>
+   <input id="name">
+   <table>
+   <tr>
+	<td>Price(Rs.)</td>&nbsp;&nbsp;&nbsp;
+	<td>Active</td>
+	<td>Date of Launch</td>
+	<td>Category</td>
+   </tr>
+   <br><br><br>
+   <tr>
+	<td><input id="price"></td>
+	<td><input type="radio" name="abc">Yes<input type="radio" name="abc">No</td>
+	<td><input type="Date"></td>
+	<td><select>
+		<option>--select--</option>
+		<option>Starters</option>
+		<option>Main Course</option>
+		<option>Dessert</option>
+		<option>Drinks</option>
+		</td>
+   </tr>
+   </table>
+   <br>
+   <table>
+   <tr>
+	<td><input type="checkbox">Free Delivery</td>
+   </tr><table>
+   <tr>
+	<td><br></td>
+   </tr>
+   </table>
+   <tr>
+	<td><input type="button" value="Save" id="save"></td>
+   </tr>
+   </table>
+ </div>
+ <div id="copy-rights">
+	<h5>Copyright&copy;2019</h5>
+ </div>
+  
+ </body>
+</html>
